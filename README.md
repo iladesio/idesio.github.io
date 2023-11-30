@@ -11,7 +11,7 @@
   />
 </p>
 
-- 🔭 I’m currently working on **Human Computer Interaction on the Web, Big data, Cloud Computing, Interactive Graphics .** 
+- 🔭 I’m currently working on **Machine Learning, Blockchain, Computer Vision and Human Computer Interaction .** 
 
 - 📫 How to reach me
 **desioilary@gmail.com**
