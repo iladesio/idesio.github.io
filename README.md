@@ -15,18 +15,11 @@
 
 - 📫 How to reach me
 **desioilary@gmail.com**
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/ilaria-de-sio/" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="iladesio"
-      height="30"
-      width="40"
-  /></a>
+  <a href="https://www.linkedin.com/in/ilaria-de-sio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iladesio" height="30" width="40"/></a>
+<a href="https://instagram.com/ilariadesio_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tony__lm" height="30" width="40" /></a>
+  <a href="https://discord.gg/790478358814261272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="229516201196257282" height="30" width="40" /></a>
 </p>
 <h3 align="left">Development:</h3>
 <p align="left">
