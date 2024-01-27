@@ -41,7 +41,7 @@
   </a>
    <a href="https://cplusplus.com" target="_blank" rel="noreferrer">
     <img
-      src="[https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
       alt="c++"
       width="40"
       height="40"
