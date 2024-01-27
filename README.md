@@ -148,6 +148,10 @@
 <a href="https://opencv.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="opencv" width="40" height="40"/>
   </a>
+  <a href="https://soliditylang.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="solidity" width="40" height="40"/>
+  </a>
+  
 </p>
 <h3 align="left">Tool & Softwares:</h3>
 <p align="left">
@@ -175,5 +179,8 @@
   <!-- Aggiunta di AWS -->
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" width="40" height="40"/>
+  </a>
+  <a href="https://www.trufflesuite.com/ganache" target="_blank" rel="noreferrer">
+    <img src="https://trufflesuite.com/assets/logo.png" alt="ganache" width="40" height="40"/>
   </a>
     
