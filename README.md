@@ -32,12 +32,12 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,ts,js,v,html,css,react,nextjs,tailwind,jquery,nodejs,npm,selenium,docker,cmake,git,github,gitlab,figma,vscode,bash,linux,latex,androidstudio,matlab,opencv,pandas,matplotlib,sklearn,tensorflow,pytorch,solidity,mongodb,mysql,spark" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,ts,js,v,html,css,react,nextjs,tailwind,jquery,nodejs,npm,selenium,docker,cmake,git,github,gitlab,figma,vscode,bash,linux,latex,androidstudio,matlab,opencv,sklearn,tensorflow,pytorch,solidity,mongodb,mysql,spark" />
   </a>
 </p>
 
 
 ---
 
-🌱 Actively seeking a role that challenges and excites me in the tech industry!
+<p align="center">🌱 Actively seeking a role that challenges and excites me in the tech industry!</p>
 
