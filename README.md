@@ -5,10 +5,6 @@
   currently pursuing a Master's Degree in Computer Science at the University of Rome "La Sapienza". 🎓
 </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iladesio" alt="Profile Views" />
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -23,13 +19,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ilaria-de-sio/" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
   </a>
   <a href="https://instagram.com/ilariadesio_" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=instagram" width="40"/>
+    <img src="https://skillicons.dev/icons?i=instagram" width="40"/>
   </a>
   <a href="https://discord.gg/790478358814261272" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=discord" width="40"/>
+    <img src="https://skillicons.dev/icons?i=discord" width="40"/>
   </a>
 </p>
 
@@ -37,37 +33,36 @@
 
 ## 🛠️ Tech Stack  
 
-### 🚀 Languages & Frameworks  
+### 🚀 Programming Languages  
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,v,py,opencv,ts,pandas,androidstudio,matplotlib,matlab,solidity,bash,html,css,java,js,tailwind,jquery,npm,react,nodejs,nextjs,threejs,git,github,gitlab,docker,selenium,figma,latex,vscode,pytorch,tensorflow,sklearn,cmake,mongodb,mysql,linux,spark" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,ts,js,v" />
 </p>
 
----
-
-## 🛠️ Tools & Software  
+### 📚 Libraries & Frameworks  
 
 <p align="center">
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=aws" width="40" />
-  </a>
-  <a href="https://www.trufflesuite.com/ganache" target="_blank">
-    <img src="https://skillicons.dev/icons?i=ganache" width="40" />
-  </a>
-  <a href="https://unity.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=unity" width="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mysql" width="40" />
-  </a>
-  <a href="https://spark.apache.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=spark" width="40" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,jquery,opencv,pandas,matplotlib,sklearn,tensorflow,pytorch,solidity" />
+</p>
+
+### 🖥️ Frontend & Backend  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,nodejs,npm,selenium,docker,cmake" />
+</p>
+
+### 🛢️ Databases & Big Data  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,spark" />
+</p>
+
+### 🛠️ Tools & Software  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,figma,vscode,bash,linux,latex,androidstudio,matlab" />
 </p>
 
 ---
 
 🎯 **Fun fact:** I love working on innovative projects and constantly exploring new technologies! 🚀💡  
-
