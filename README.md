@@ -27,15 +27,23 @@
 
 
 ---
-
 ## 🛠️ Tech Stack  
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,ts,js,v,html,css,react,nextjs,tailwind,jquery,nodejs,npm,selenium,docker,cmake,git,github,gitlab,figma,vscode,bash,linux,latex,androidstudio,matlab,opencv,sklearn,tensorflow,pytorch,solidity,mongodb,mysql,spark" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,ts,js,v,html,css,react,nextjs,tailwind,jquery,nodejs,npm,selenium,docker,cmake,git,github,gitlab,figma,vscode,bash,linux,latex,androidstudio,matlab,opencv,pandas,matplotlib,sklearn,tensorflow,pytorch,solidity,mongodb,mysql,spark" />
   </a>
 </p>
 
+---
+
+## 🛎️ Tools & Platforms  
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=unity,vscode,ubuntu,windows,visualstudio,aws,linux,notion" />
+  </a>
+</p>
 
 ---
 
