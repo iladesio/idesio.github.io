@@ -1,9 +1,9 @@
 # <h1 align="center">Hi 👋, I'm Ilaria De Sio</h1>
 
 <h3 align="center">
-  I'm 23, from Italy 🇮🇹. I obtained my BSc in Computer Science in 2022, and I'm
-  currently pursuing a Master's Degree in Computer Science at the University of Rome "La Sapienza". 🎓
+  Computer Science MSc Student 💻 | XR and AI addict 🧠 | Game Development & Interactive Technologies Aspiring Researcher 🎮  
 </h3>
+
 
 ---
 
@@ -33,34 +33,10 @@
 
 ## 🛠️ Tech Stack  
 
-### 🚀 Programming Languages  
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,ts,js,v" />
-</p>
-
-### 📚 Libraries & Frameworks  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,jquery,opencv,pandas,matplotlib,sklearn,tensorflow,pytorch,solidity" />
-</p>
-
-### 🖥️ Frontend & Backend  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,nodejs,npm,selenium,docker,cmake" />
-</p>
-
-### 🛢️ Databases & Big Data  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,spark" />
-</p>
-
-### 🛠️ Tools & Software  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,figma,vscode,bash,linux,latex,androidstudio,matlab" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,ts,js,v,html,css,react,nextjs,tailwind,jquery,nodejs,npm,selenium,docker,cmake,git,github,gitlab,figma,vscode,bash,linux,latex,androidstudio,matlab,opencv,pandas,matplotlib,sklearn,tensorflow,pytorch,solidity,mongodb,mysql,spark" />
+  </a>
 </p>
 
 ---
