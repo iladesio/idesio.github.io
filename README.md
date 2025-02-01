@@ -1,17 +1,10 @@
 # <h1 align="center">Hi 👋, I'm Ilaria De Sio</h1>
 
+## 🚀 About Me
+
 <h3 align="center">
   Computer Science MSc Student 💻 | XR and AI addict 🧠 | Game Development & Interactive Technologies Aspiring Researcher 🎮  
 </h3>
-
-
----
-
-## 🚀 About Me
-
-- 🔭 I’m currently working on **Machine Learning 🤖, Blockchain ⛓️, Computer Vision 👀, and Human-Computer Interaction 🎮.**  
-- 📫 **How to reach me:**  
-  ✉️ **ilaria.desio00@gmail.com**  
 
 ---
 
@@ -27,7 +20,11 @@
   <a href="https://discord.gg/790478358814261272" target="blank">
     <img src="https://skillicons.dev/icons?i=discord" width="40"/>
   </a>
+  <a href="mailto:desio.2064970@studenti.uniroma1.it" target="blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40"/>
+  </a>
 </p>
+
 
 ---
 
@@ -41,4 +38,5 @@
 
 ---
 
-🎯 **Fun fact:** I love working on innovative projects and constantly exploring new technologies! 🚀💡  
+🌱 Actively seeking a role that challenges and excites me in the tech industry!
+
